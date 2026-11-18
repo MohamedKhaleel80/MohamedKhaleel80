@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,45:302B63,100:00D4FF&height=230&section=header&text=MOHAMED%20KHALEEL&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20C%23%20%26%20.NET&descAlignY=58&descSize=17&animation=twinkling" alt="Mohamed Khaleel animated profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/MohamedKhaleel80/MohamedKhaleel80/main/profile-header.gif" alt="Mohamed Khaleel animated profile banner" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=00D4FF&center=true&vCenter=true&width=820&height=55&lines=Building+real-world+software+%F0%9F%9A%80;C%23+%7C+.NET+%7C+ASP.NET+Core;Backend+Development+%7C+SQL+Server;Learning%2C+Building%2C+Improving+%E2%9C%A8" alt="Typing animation" />
 
