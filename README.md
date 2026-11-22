@@ -126,9 +126,7 @@ I'm a software developer focused on **C# / .NET backend development**. I enjoy t
   <img width="70%" src="https://streak-stats.demolab.com?user=MohamedKhaleel80&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=9D7BFF&currStreakLabel=00D4FF" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=MohamedKhaleel80&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
-</div>
+
 
 ---
 
